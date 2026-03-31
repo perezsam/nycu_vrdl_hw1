@@ -1,6 +1,6 @@
 # NYCU Computer Vision 2026 HW1
-**Student ID:** 123456789
-**Name:** Sam
+**Student ID:** 314540033
+**Name:** Samuel Perez
 
 ## Introduction
 This repository contains the training and inference pipeline for HW1 (100-class Fine-Grained Visual Classification). The final solution utilizes a Multiscale Triple Ensemble strategy. The ensemble combines ResNet-101, ResNeXt-50, and a SOTA-modified ResNeXt-50 featuring Generalized Mean Pooling (GeM), Channel Attention (SE Block), and Focal Loss. Multiscale Test-Time Augmentation (TTA) is used during inference to capture both macro-structures and micro-textures.
